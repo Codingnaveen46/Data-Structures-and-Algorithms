@@ -46,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Selectionsort.executor": "Run",
     "Application.SortingAlgorithms.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -101,12 +102,29 @@
       <option name="project" value="LOCAL" />
       <updated>1728364119925</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="learnt about bubblesort algorithms">
+      <option name="closed" value="true" />
+      <created>1728367389509</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728367389509</updated>
+    </task>
+    <task id="LOCAL-00006" summary="learnt about bubblesort algorithms">
+      <option name="closed" value="true" />
+      <created>1728367395701</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728367395701</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DSA IN java" />
     <MESSAGE value="learnt about linear algorith and binary search algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="learnt about linear algorith and binary search algorithm" />
+    <MESSAGE value="learnt about bubblesort algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="learnt about bubblesort algorithms" />
   </component>
 </project>
